@@ -1,4 +1,4 @@
-- 👋 Olá, sou @Felipemasteer
+- 👋 Olá, sou Felipe Ghensev Peres atualmente estudante 16 anos
 - 👀 Estou interessado em aprender mais
 - 🌱 Atualmente estou aprendendo html css 
 - 📫 Como entrar em contato comigo - gmail- @felipeghensev@gmail.com
