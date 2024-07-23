@@ -1,5 +1,5 @@
 OLÁ MEU NOME É FELIPE GHENSEV PERES
-- 👋 Olá, sou Felipe Ghensev Peres atualmente estudante 16 anos
+- 👋 Olá, sou Felipe Ghensev Peres atualmente estudante 17 anos
 - 👀 Estou interessado em aprender mais
 - 🌱 Atualmente estou aprendendo Python
 - 📫 Como entrar em contato comigo - gmail- @felipeghensev@gmail.com
