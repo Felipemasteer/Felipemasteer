@@ -3,7 +3,7 @@ OLÁ MEU NOME É FELIPE GHENSEV PERES
 - 👀 Estou interessado em aprender mais
 - 🌱 Atualmente estou aprendendo Python
 - 📫 Como entrar em contato comigo - gmail- @felipeghensev@gmail.com
-- 📝 Atualmente com 1 certificado de Python do CursoEmVideo 
+- 📝 Atualmente com 2 certificados de Python do CursoEmVideo 
 
 <!---
 Felipemasteer/Felipemasteer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
