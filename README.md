@@ -1,7 +1,7 @@
 OLÁ MEU NOME É FELIPE GHENSEV PERES
 - 👋 Olá, sou Felipe Ghensev Peres atualmente estudante 17 anos
 - 👀 Estou interessado em aprender mais
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Atualmente estou aprendendo Python | Javascript | Html | Css
 - 📫 Como entrar em contato comigo - gmail- @felipeghensev@gmail.com
 - 📝 Atualmente com 3 certificados de Python 
 
