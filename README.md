@@ -4,7 +4,7 @@ OLÁ MEU NOME É FELIPE GHENSEV PERES
 - 👀 Estou interessado em aprender mais
 - 🌱 Atualmente estou aprendendo Python | Javascript | Html | Css
 - 📫 Como entrar em contato comigo - gmail- @felipeghensev@gmail.com
-- 📝 Atualmente com 3 certificados de Python
+- 📝 Atualmente com 3 certificados em Python
 - 🧠 Possuo conhecimento avançado de inglês em nível intermediário
 
  ## 🚀 Minhas Skills
