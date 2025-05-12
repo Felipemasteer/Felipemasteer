@@ -1,16 +1,16 @@
-🎓 Tenho 17 anos e sou estudante apaixonado por tecnologia.
+🎓 Tenho 17 anos e sou estudante apaixonado por tecnologia
 
-🧑‍💻 Me identifiquei profundamente com a área de Back-End.
+🧑‍💻 Me identifiquei bastante com a área de Back-End e quero me desenvolver também com Inteligência Artificial
 
- 🏀 Também sou apaixonado por basquete, que pratico diariamente.
+ 🏀 Também sou apaixonado por basquete, que pratico diariamente
 
-🌱 Atualmente estudando: Python, Microsoft SQL Server e Amazon AWS.
+🌱 Atualmente estudando: Python, Microsoft SQL Server e Amazon AWS
 
- 👀 Estou sempre buscando aprender mais e evoluir na programação.
+ 👀 Estou sempre buscando aprender mais e evoluir na programação
 
 📫 Você pode falar comigo pelo e-mail: felipeghensev@gmail.com
 
-🧠 Tenho conhecimento de inglês no nível B1 (intermediário).
+🧠 Tenho conhecimento de inglês no nível B1 (intermediário)
  ## 🚀 Minhas Skills
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" style="max-width: 100%;">
