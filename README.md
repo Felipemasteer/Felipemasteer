@@ -1,6 +1,6 @@
--🎓 Tenho 17 anos e sou estudante apaixonado por tecnologia.
+🎓 Tenho 17 anos e sou estudante apaixonado por tecnologia.
 
--🧑‍💻 Me identifiquei profundamente com a área de Back-End.
+🧑‍💻 Me identifiquei profundamente com a área de Back-End.
 
 - 🏀 Também sou apaixonado por basquete, que pratico diariamente.
 
