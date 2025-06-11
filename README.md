@@ -1,4 +1,4 @@
-🎓 Tenho 17 anos e sou estudante apaixonado por tecnologia
+🎓 Tenho 18 anos e sou estudante apaixonado por tecnologia
 
 🧑‍💻 Me identifiquei bastante com a área de Back-End e quero me desenvolver também com Inteligência Artificial
 
